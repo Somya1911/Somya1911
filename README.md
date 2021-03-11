@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Cross Platform Dev**
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/somya-khatri-07b86a19b/" target="blank"><img align="center" src="https://github.com/Somya1911/Somya1911/blob/main/Linkedin-removebg-preview%20(1).png" alt="Somya" height="30" width="30" /></a> 
 <a href="https://www.instagram.com/somyayayayaa/?hl=en" target="blank"><img align="center" src="https://github.com/Somya1911/Somya1911/blob/main/insta-removebg-preview.png" alt="Somya" height="30" width="30" /></a>
- <a href="https://twitter.com/Somya1911" target="blank"><img align="center" src="" alt="Somya" height="30" width="30" /></a> 
+ <a href="https://twitter.com/Somya1911" target="blank"><img align="center" src="https://github.com/Somya1911/Somya1911/blob/main/twitter_-removebg-preview.png" alt="Somya" height="30" width="30" /></a> 
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
