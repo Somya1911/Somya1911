@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <code><img height="60" width="60" src="https://github.com/Somya1911/Somya1911/blob/main/android-studio-removebg-preview.png"></code>
 <code><img height="60" width="60" src="https://github.com/Somya1911/Somya1911/blob/main/firebase-removebg-preview.png"></code>
 <code><img height="60" width="60" src="https://github.com/Somya1911/Somya1911/blob/main/mysql-removebg-preview.png"></code>
-<code><img height="60" width="60" src="https://github.com/Somya1911/Somya1911/blob/main/twitter_-removebg-preview.png"></code>
+
 
 <br/>
 <br/>
